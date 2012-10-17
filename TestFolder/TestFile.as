@@ -1,4 +1,4 @@
-This is my test file
+This is my test file but with a conflict
 
 Ok now its changed !
 
