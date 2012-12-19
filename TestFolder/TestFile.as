@@ -6,4 +6,4 @@ CONFLICT! Not at this line no way! At this line!
 
 new branch from brd brach ...ok heres another conflict. Yes there will be another stupid conflict on this linenew branch from brd brach
 
-a change..lets add a file too.
+a change..lets add a file too. Will you know what to do?
